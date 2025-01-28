@@ -2,7 +2,7 @@
 
 ---
 
-# **🚀 Deploying Node.js Backend with Nginx on AWS EC2**
+# **🚀 Cloud_Scaled_User_Authentication-System using Nodejs and nginx  on AWS EC2**
 
 This guide explains how to set up a Node.js backend on an **Ubuntu EC2 instance** and configure it to run in a production environment using **Nginx** as a reverse proxy.
 
